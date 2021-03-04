@@ -1,9 +1,9 @@
 {
-  "id": "org.opentransactions.metier",
+  "id": "cash.pkt.pktdesktop",
   "runtime": "org.kde.Platform",
   "runtime-version": "5.15",
   "sdk": "org.kde.Sdk",
-  "command": "metier",
+  "command": "pktdesktop",
   "modules": [
     {
       "name": "boost",
@@ -163,12 +163,13 @@
       "buildsystem": "cmake-ninja",
       "builddir": true,
       "config-opts": [
-          "-DMETIER_DEFAULT_SYNC_SERVER=tcp://40.88.35.72:8814"
+          "-DMETIER_DEFAULT_SYNC_SERVER=tcp://40.88.35.72:8814",
+          "-DMETIER_DEFAULT_BLOCKCHAIN=9"
       ],
       "sources": [
         {
-          "url": "https://github.com/Open-Transactions/metier",
-          "branch": "develop",
+          "url": "ssh://git@github.com/matterfi/wallet",
+          "branch": "pkt",
           "type": "git",
           "disable-shallow-clone": true
         }
