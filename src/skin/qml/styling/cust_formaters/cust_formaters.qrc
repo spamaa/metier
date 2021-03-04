@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="styling/cust_formaters/">
+    <file>HorizontalLineRect.qml</file>
+    <file>OutlineSimple.qml</file>
+  </qresource>
+</RCC>

@@ -107,10 +107,15 @@ public:
         ot_ = std::make_unique<OTWrap>(*this, parent_, argc, argv);
 
         {
+            // provides the functions calls into OpenTransactions features
             auto* ot = ot_.get();
             ot->connect(ot, &OTWrap::nymReady, this, &QmlApp::nymReady);
             Ownership::Claim(ot);
             qml_.rootContext()->setContextProperty("otwrap", ot);
+        }
+        {
+            // provides a pointer to ' QGuiApplication ' object
+            qml_.rootContext()->setContextProperty("guiApplication", this);
         }
 
         qml_.connect(
@@ -120,6 +125,8 @@ public:
         if (qml_.status() == QQuickView::Error) { abort(); }
 
         qml_.setResizeMode(QQuickView::SizeRootObjectToView);
+        qml_.resize(1024, 768);
+        qml_.setMinimumSize(QSize(1024, 768));
         qml_.show();
     }
 

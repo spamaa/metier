@@ -1,0 +1,4 @@
+# qmldir
+
+OutlineSimple 1.0 OutlineSimple.qml
+HorizontalLineRect 1.0 HorizontalLineRect.qml

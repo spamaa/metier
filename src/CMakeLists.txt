@@ -61,6 +61,13 @@ if(METIER_QML_INTERFACE)
     APPEND
     METIER_RCC_SOURCES
     "skin/qml/resources.qrc"
+    "skin/qml/assets/assets.qrc"
+    "skin/qml/styling/styling.qrc"
+    "skin/qml/styling/cust_formaters/cust_formaters.qrc"
+    "skin/qml/shared/qml_shared.qrc"
+    "skin/qml/shared/matterfi/matterfi.qrc"
+    "skin/qml/pages/pages.qrc"
+    "skin/qml/drawers/drawers.qrc"
   )
 endif()
 

@@ -1,0 +1,5 @@
+# qmldir
+
+singleton CustStyle CustStyle.qml
+singleton Fonts Fonts.qml
+singleton IconIndex IconIndex.qml
