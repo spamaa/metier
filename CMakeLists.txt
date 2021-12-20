@@ -10,11 +10,11 @@ cmake_policy(
   NEW
 )
 set(CMAKE_OSX_DEPLOYMENT_TARGET 10.15)
-project(metier)
-set(METIER_APPSTREAM_ID "org.opentransactions.metier")
-set(METIER_APPSTREAM_NAME "Métier")
-set(METIER_APP_DOMAIN "opentransactions.org")
-set(METIER_CLI_COMMAND "metierctl")
+project(spacedawgs)
+set(METIER_APPSTREAM_ID "io.spacedawgs.wallet")
+set(METIER_APPSTREAM_NAME "spacedawgs")
+set(METIER_APP_DOMAIN "spacedawgs.io")
+set(METIER_CLI_COMMAND "spacedawgsctl")
 set(METIER_GUI_OUTPUT_NAME ${PROJECT_NAME})
 
 set(METIER_VERSION_MAJOR 22)
