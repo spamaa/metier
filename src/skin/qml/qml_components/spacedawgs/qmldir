@@ -1,0 +1,20 @@
+# qmldir
+
+Dawgs_AccentTitle 1.0 Dawgs_AccentTitle.qml
+Dawgs_ActionFooter 1.0 Dawgs_ActionFooter.qml
+Dawgs_AssetSelection 1.0 Dawgs_AssetSelection.qml
+Dawgs_Alert 1.0 Dawgs_Alert.qml
+Dawgs_Avatar 1.0 Dawgs_Avatar.qml
+Dawgs_Button 1.0 Dawgs_Button.qml
+Dawgs_CenteredTitle 1.0 Dawgs_CenteredTitle.qml
+Dawgs_ContextualHelp 1.0 Dawgs_ContextualHelp.qml
+Dawgs_PinLenSwitch 1.0 Dawgs_PinLenSwitch.qml
+Dawgs_PinNumBox 1.0 Dawgs_PinNumBox.qml
+Dawgs_RadioButton 1.0 Dawgs_RadioButton.qml
+Dawgs_SendAmount 1.0 Dawgs_SendAmount.qml
+Dawgs_SendButton 1.0 Dawgs_SendButton.qml
+Dawgs_TabGroupButton 1.0 Dawgs_TabGroupButton.qml
+Dawgs_TextButton 1.0 Dawgs_TextButton.qml
+Dawgs_TextField 1.0 Dawgs_TextField.qml
+Dawgs_TranslucentButton 1.0 Dawgs_TranslucentButton.qml
+Dawgs_YesNoToggle 1.0 Dawgs_YesNoToggle.qml

@@ -1,0 +1,32 @@
+<RCC>
+    <!-- MatterFi Components -->
+    <qresource prefix="matterfi/">
+    
+        <file>MatterFi_AccountListDelegate.qml</file>
+        <file>MatterFi_ActivityItemDetails.qml</file>
+        <file>MatterFi_ActivityList.qml</file>
+        <file>MatterFi_Avatar.qml</file>
+        <file>MatterFi_BiPolarSwitch.qml</file>
+        <file>MatterFi_BlockchainExplorerButton.qml</file>
+        <file>MatterFi_BlockChainIcon.qml</file>
+        <file>MatterFi_DetailTree.qml</file>
+        <file>MatterFi_TransactionDetails.qml</file>
+        <file>MatterFi_TransactionList.qml</file>
+        <file>MatterFi_BlockChainStatistics.qml</file>
+        <file>MatterFi_PaymentCode.qml</file>
+        <file>MatterFi_PinWall.qml</file>
+        <file>MatterFi_QRCodeImage.qml</file>
+        <file>MatterFi_RecoveryWordInput.qml</file>
+        <file>MatterFi_RoundButton.qml</file>
+        <file>MatterFi_SeedLangComboBox.qml</file>
+        <file>MatterFi_SeedSizeComboBox.qml</file>
+        <file>MatterFi_SeedTypeComboBox.qml</file>
+
+        <file>TransactionDeligate_ETH.qml</file>
+        <file>TransactionDetailItemDeligate.qml</file>
+        <file>TransactionDeligate_Generic.qml</file>
+
+        <!-- Register QML -->
+        <file>qmldir</file>
+    </qresource>
+</RCC>
