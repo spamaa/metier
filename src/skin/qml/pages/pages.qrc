@@ -1,0 +1,83 @@
+<RCC>
+	<qresource prefix="pages/">
+		<!-- Debugging Items -->
+		<file>blank.qml</file>
+	  <file>dawgs_component_test.qml</file>
+
+		<!-- New User -->
+		<file>onboardingflow/onboard_card_frame.qml</file>
+
+		<!-- Existing User -->
+		<file>existingusers/advanced_wallet_details.qml</file>
+		<file>existingusers/dashboard.qml</file>
+
+		<!-- Startup Shared -->
+		<file>splash.qml</file>
+		<file>nav404_home.qml</file>
+		<file>app_version.qml</file>
+	</qresource>
+
+	<!-- Onboarding User Flow cards -->
+	<qresource prefix="boarding_cards/">
+		<file alias="blank_card.qml">onboardingflow/cards/blank_card.qml</file>
+		<file alias="hardware_tapit.qml">onboardingflow/cards/hardware_tapit.qml</file>
+		<file alias="welcome.qml">onboardingflow/cards/welcome.qml</file>
+
+		<file alias="softwallet/show_newseed.qml">onboardingflow/cards/softwallet/show_newseed.qml</file>
+		<file alias="softwallet/surrounding_warn.qml">onboardingflow/cards/softwallet/surrounding_warn.qml</file>
+
+		<file alias="hardwallet/seedwarn.qml">onboardingflow/cards/hardwallet/seedwarn.qml</file>
+		<file alias="hardwallet/show_seedphrase.qml">onboardingflow/cards/hardwallet/show_seedphrase.qml</file>
+
+		<file alias="recover/ask_hardorsoft.qml">onboardingflow/cards/recovery/ask_hardorsoft.qml</file>
+		<file alias="recover_soft/enter_seedphrase.qml">onboardingflow/cards/recovery/soft/enter_seedphrase.qml</file>
+		<file alias="recover_hard/ask_hascard.qml">onboardingflow/cards/recovery/hard/ask_hascard.qml</file>
+
+		<file alias="finalsteps/enterpin.qml">onboardingflow/cards/finalsteps/enterpin.qml</file>
+		<file alias="finalsteps/namewallet.qml">onboardingflow/cards/finalsteps/namewallet.qml</file>
+		<file alias="finalsteps/boarding_completed.qml">onboardingflow/cards/finalsteps/boarding_completed.qml</file>
+	</qresource>
+
+	<!-- Dashboard seperate view sections -->
+	<qresource prefix="dashviews/">
+		<file alias="activity_details.qml">existingusers/dashviews/activity_details.qml</file>
+		<file alias="add_tokens.qml">existingusers/dashviews/add_tokens.qml</file>
+		<file alias="change_profile.qml">existingusers/dashviews/change_profile.qml</file>
+		<file alias="contact_details.qml">existingusers/dashviews/contact_details.qml</file>
+		<file alias="create_contact.qml">existingusers/dashviews/create_contact.qml</file>
+		<file alias="link_spacecard.qml">existingusers/dashviews/link_spacecard.qml</file>
+		<file alias="lost_spacecard.qml">existingusers/dashviews/lost_spacecard.qml</file>
+		<file alias="manage_assets.qml">existingusers/dashviews/manage_assets.qml</file>
+		<file alias="nft_collection.qml">existingusers/dashviews/nft_collection.qml</file>
+		<file alias="nft_details.qml">existingusers/dashviews/nft_details.qml</file>
+		<file alias="nym_create.qml">existingusers/dashviews/nym_create.qml</file>
+		<file alias="nym_restore.qml">existingusers/dashviews/nym_restore.qml</file>
+		<file alias="rename_wallet.qml">existingusers/dashviews/rename_wallet.qml</file>
+		<file alias="root.qml">existingusers/dashviews/root.qml</file>
+		<file alias="send_funds.qml">existingusers/dashviews/send_funds.qml</file>
+		<file alias="view_seedphrase.qml">existingusers/dashviews/view_seedphrase.qml</file>
+	</qresource>
+
+	<!-- Register Page Components -->
+	<qresource prefix="page_components/">
+		<file>existingusers/dashboard_component/Dashboard_Assets.qml</file>
+		<file>existingusers/dashboard_component/Dashboard_Contacts.qml</file>
+		<file>existingusers/dashboard_component/Dashboard_Collectibles.qml</file>
+		<file>existingusers/dashboard_component/Dashboard_HeaderBar.qml</file>
+		<file>existingusers/dashboard_component/Dashboard_LeftDrawer.qml</file>
+		<file>existingusers/dashboard_component/Dashboard_ListDeligate.qml</file>
+		<file>existingusers/dashboard_component/Dashboard_ListDetailedDeligate.qml</file>
+		<file>existingusers/dashboard_component/Dashboard_ListView.qml</file>
+		<file>existingusers/dashboard_component/Dashboard_RightDrawer.qml</file>
+		<file>existingusers/dashboard_component/Dashboard_SpaceCard.qml</file>
+		<file>existingusers/dashboard_component/Dashboard_SpaceCardCustomize.qml</file>
+		<file>existingusers/dashboard_component/Dashboard_Transactions.qml</file>
+
+		<file>existingusers/dashboard_component/SendUI_AssetAmount.qml</file>
+		<file>existingusers/dashboard_component/SendUI_FinalReview.qml</file>
+		<file>existingusers/dashboard_component/SendUI_ToWhome.qml</file>
+		<file>existingusers/dashboard_component/SendUI_TransactionOutcome.qml</file>
+
+		<file>qmldir</file>
+	</qresource>
+</RCC>

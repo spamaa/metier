@@ -1,0 +1,221 @@
+[{
+    "title": "PixelPups",
+    "coverImage": "https://spacedawgs.sirv.com/apps/sample-data/dawg-4.jpg",
+    "owned": 4,
+    "items": [{
+        "title": "Cursed Researcher Brody",
+        "image": "https://spacedawgs.sirv.com/apps/sample-data/dawg-4.jpg",
+        "owned": true,
+        "attributes": [{
+            "trait_type": "Eyewear",
+            "value": "Spectacles"
+          },
+          {
+            "trait_type": "Chest",
+            "value": "Evil_Chain"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Toxic_Drool"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Diseased"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Sickly_Fur"
+          }
+        ],
+        "level": 5,
+        "rank": "Major",
+        "description": "He's feeling fine, really.",
+        "story": "After returning from an archealogical expedition to Egypt, sole survivor Major Brody joins the crew before take off. His behavior may seem off but he`s the best researcher in the entire quadrant. His new jewelery may have just looked at you, but you hope not.",
+        "origin": "Arf (Earth 2)",
+        "location": "Happy Dawgs Rocket Club"
+      },
+      {
+        "title": "Blazed Surgeon Marley",
+        "image": "https://spacedawgs.sirv.com/apps/sample-data/dawg-1.jpg",
+        "owned": true,
+        "attributes": [{
+            "trait_type": "Mouth",
+            "value": "Joint"
+          },
+          {
+            "trait_type": "Chest",
+            "value": "Stethoscope"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Tight_Eyes"
+          }
+        ],
+        "level": 5,
+        "rank": "General",
+        "description": "The weed makes his hand more steady.",
+        "story": "The dawg, the myth, the legend, General Marley who recovered over 400 wounded dawgs in one week during the battle for the golden bowl in 3022. He gets high all the time now, even during surgery but it almost seems like it makes him... better at it?",
+        "origin": "Arf (Earth 2)",
+        "location": "Happy Dawgs Rocket Club"
+      },
+      {
+        "title": "Cautious Engineer Mack",
+        "image": "https://spacedawgs.sirv.com/apps/sample-data/dawg-3.jpg",
+        "owned": true,
+        "attributes": [{
+            "trait_type": "Eyes",
+            "value": "Sushi eyes"
+          },
+          {
+            "trait_type": "Chest",
+            "value": "SD_Badge"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Grump"
+          }
+        ],
+        "description": "It's the visor or the virus Mack always says.",
+        "story": "Ever since the 17th straight year of Parvid 19 Mack likes to keep his distance from others. You can make him go to work, but you can't make him put his visor up... his body, his choice.",
+        "level": 5,
+        "rank": "Private",
+        "origin": "Arf (Earth 2)",
+        "location": "Happy Dawgs Rocket Club"
+      },
+      {
+        "title": "Off-Duty Chemist Tina",
+        "image": "https://spacedawgs.sirv.com/apps/sample-data/dawg-2.jpg",
+        "owned": true,
+        "attributes": [{
+            "trait_type": "Eyewear",
+            "value": "Green_Shades"
+          },
+          {
+            "trait_type": "Chest",
+            "value": "Gold_Chain"
+          }
+        ],
+        "description": "Her eyes are up here...",
+        "story": "Tina is the foremost authority on chemical and alchecmical reactions. She tells you of a distant, liberating past on Earth 1 where dawgs of all breeds wore no clothes except tiny sweaters forced on them by hoomans. You're actually starting to believe her.",
+        "level": 5,
+        "rank": "Private First Class",
+        "origin": "Arf (Earth 2)",
+        "location": "Happy Dawgs Rocket Club"
+      }
+    ]
+  },
+  {
+    "title": "Bored Apes",
+    "coverImage": "https://spacedawgs.sirv.com/apps/sample-data/ape-4.png",
+    "owned": 4,
+    "items": [{
+        "title": "Dumbass Ape",
+        "image": "https://spacedawgs.sirv.com/apps/sample-data/ape-1.png",
+        "owned": true,
+        "attributes": [{
+            "trait_type": "Headwear",
+            "value": "Stupid_Hat"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Dumb_Grin"
+          },
+          {
+            "trait_type": "Shirt",
+            "value": "Hawaiin"
+          }
+        ]
+      },
+      {
+        "title": "Gold Ape",
+        "image": "https://spacedawgs.sirv.com/apps/sample-data/ape-2.jpg",
+        "owned": true,
+        "attributes": [{
+            "trait_type": "Headwear",
+            "value": "Beanie"
+          },
+          {
+            "trait_type": "Shirt",
+            "value": "Plain"
+          }
+        ]
+      },
+      {
+        "title": "Trip Ape",
+        "image": "https://spacedawgs.sirv.com/apps/sample-data/ape-3.png",
+        "owned": true,
+        "attributes": [{
+            "trait_type": "Headwear",
+            "value": "Beanie"
+          },
+          {
+            "trait_type": "Shirt",
+            "value": "Plain"
+          }
+        ]
+      },
+      {
+        "title": "Street Ape",
+        "image": "https://spacedawgs.sirv.com/apps/sample-data/ape-4.png",
+        "owned": true,
+        "attributes": [{
+            "trait_type": "Headwear",
+            "value": "Beanie"
+          },
+          {
+            "trait_type": "Shirt",
+            "value": "Plain"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Cool Cats",
+    "coverImage": "https://spacedawgs.sirv.com/apps/sample-data/cat-3.png",
+    "owned": 3,
+    "items": [{
+        "title": "Mariner's Revenge Cat",
+        "image": "https://spacedawgs.sirv.com/apps/sample-data/cat-1.png",
+        "owned": true,
+        "attributes": [{
+            "trait_type": "Headwear",
+            "value": "Beanie"
+          },
+          {
+            "trait_type": "Shirt",
+            "value": "Plain"
+          }
+        ]
+      },
+      {
+        "title": "Swim Cat",
+        "image": "https://spacedawgs.sirv.com/apps/sample-data/cat-2.png",
+        "owned": true,
+        "attributes": [{
+            "trait_type": "Headwear",
+            "value": "Beanie"
+          },
+          {
+            "trait_type": "Shirt",
+            "value": "Plain"
+          }
+        ]
+      },
+      {
+        "title": "Space Cat",
+        "image": "https://spacedawgs.sirv.com/apps/sample-data/cat-3.png",
+        "owned": true,
+        "attributes": [{
+            "trait_type": "Headwear",
+            "value": "Beanie"
+          },
+          {
+            "trait_type": "Shirt",
+            "value": "Plain"
+          }
+        ]
+      }
+    ]
+  }
+]

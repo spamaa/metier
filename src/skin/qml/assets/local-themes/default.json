@@ -1,0 +1,47 @@
+{
+  "config": {
+    "theme_name": "Default"
+  },
+
+  "light_mode": {
+    "plain_text":   "#122631",
+    "page_bg":      "#ffffff",
+    "norm_bg":      "#dadce3",
+
+    "buta_active":      "#6D7AFF",
+    "buta_selected":    "#626de4",
+    "buts_active":      "#f16509",
+    "but_disabled":     "#aebbc7",
+    "but_txtnorm":      "#122631",
+  
+    "aa_norm_ol":       "#2C5065",
+    "aa_selected_ol":   "#6D7AFF",
+    "aa_selected_bg":   "#1a6d7aff",
+    "aa_hovered_bg":    "#800d1921",
+    "alert_ol":         "#d44e4e",
+    "alert_bg":         "#613838",
+    "alert_txt":        "#e9eaf3"
+  },
+
+
+  "dark_mode": {
+    "plain_text":   "#e9eaf3",
+    "page_bg":      "#0c1921",
+    "norm_bg":      "#122631",
+
+    "buta_active":      "#6D7AFF",
+    "buta_selected":    "#626de4",
+    "buts_active":      "#f16509",
+    "but_disabled":     "#aebbc7",
+    "but_txtnorm":      "#e9eaf3",
+  
+    "aa_norm_ol":       "#2C5065",
+    "aa_selected_ol":   "#6D7AFF",
+    "aa_selected_bg":   "#1a6d7aff",
+    "aa_hovered_bg":    "#800d1921",
+    "alert_ol":         "#d44e4e",
+    "alert_bg":         "#613838",
+    "alert_txt":        "#e9eaf3"
+  }
+
+}

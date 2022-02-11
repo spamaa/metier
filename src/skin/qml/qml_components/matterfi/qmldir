@@ -1,0 +1,27 @@
+# qmldir
+
+MatterFi_Avatar 1.0 MatterFi_Avatar.qml
+MatterFi_ActivityItemDetails 1.0 MatterFi_ActivityItemDetails.qml
+MatterFi_ActivityList 1.0 MatterFi_ActivityList.qml
+MatterFi_AccountListDelegate 1.0 MatterFi_AccountListDelegate.qml
+MatterFi_BiPolarSwitch 1.0 MatterFi_BiPolarSwitch.qml
+MatterFi_BlockchainExplorerButton 1.0 MatterFi_BlockchainExplorerButton.qml
+MatterFi_BlockChainIcon 1.0 MatterFi_BlockChainIcon.qml
+MatterFi_BlockChainStatistics 1.0 MatterFi_BlockChainStatistics.qml
+MatterFI_NymNewSeedView 1.0 MatterFI_NymNewSeedView.qml
+MatterFi_DetailTree 1.0 MatterFi_DetailTree.qml
+MatterFi_PaymentCode 1.0 MatterFi_PaymentCode.qml
+MatterFi_PinWall 1.0 MatterFi_PinWall.qml
+MatterFi_TransactionDetails 1.0 MatterFi_TransactionDetails.qml
+MatterFi_TransactionList 1.0 MatterFi_TransactionList.qml
+MatterFi_QRCodeImage 1.0 MatterFi_QRCodeImage.qml
+MatterFI_NymRecoveryView 1.0 MatterFI_NymRecoveryView.qml
+MatterFi_RecoveryWordInput 1.0 MatterFi_RecoveryWordInput.qml
+MatterFi_RoundButton 1.0 MatterFi_RoundButton.qml
+MatterFi_SeedLangComboBox 1.0 MatterFi_SeedLangComboBox.qml
+MatterFi_SeedSizeComboBox 1.0 MatterFi_SeedSizeComboBox.qml
+MatterFi_SeedTypeComboBox 1.0 MatterFi_SeedTypeComboBox.qml
+
+TransactionDeligate_ETH 1.0 TransactionDeligate_ETH.qml
+TransactionDetailItemDeligate 1.0 TransactionDetailItemDeligate.qml
+TransactionDeligate_Generic 1.0 TransactionDeligate_Generic.qml
