@@ -111,7 +111,7 @@ public:
     Q_INVOKABLE int wordCount(const int type, const int strength);
     Q_INVOKABLE int enabledCurrencyCount();
     BlockchainList enabledBlockchains();
-    Q_INVOKABLE QString getQRcodeBase64(const QString input_string);
+    Q_INVOKABLE QString getQRcodeBase64(const QString input_string, const bool raw_utf8);
     Q_INVOKABLE int longestBlockchainName();
     Q_INVOKABLE int longestSeedWord();
     Q_INVOKABLE void openSystemBrowserLink(QString url_link);

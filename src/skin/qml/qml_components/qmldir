@@ -1,0 +1,6 @@
+# qmldir
+singleton QML_Debugger QML_Debugger.qml
+singleton UIUX_UserCache UIUX_UserCache.qml
+
+FontIconButton 1.0 FontIconButton.qml
+OutlineSimple 1.0 OutlineSimple.qml

@@ -1,0 +1,17 @@
+Dashboard_Assets 1.0        existingusers/dashboard_component/Dashboard_Assets.qml
+Dashboard_Collectibles 1.0  existingusers/dashboard_component/Dashboard_Collectibles.qml
+Dashboard_Contacts 1.0      existingusers/dashboard_component/Dashboard_Contacts.qml
+Dashboard_HeaderBar 1.0     existingusers/dashboard_component/Dashboard_HeaderBar.qml
+Dashboard_LeftDrawer 1.0    existingusers/dashboard_component/Dashboard_LeftDrawer.qml
+Dashboard_ListDeligate 1.0  existingusers/dashboard_component/Dashboard_ListDeligate.qml
+Dashboard_ListDetailedDeligate 1.0 existingusers/dashboard_component/Dashboard_ListDetailedDeligate.qml
+Dashboard_ListView 1.0 existingusers/dashboard_component/Dashboard_ListView.qml
+Dashboard_RightDrawer 1.0   existingusers/dashboard_component/Dashboard_RightDrawer.qml
+Dashboard_SpaceCard 1.0     existingusers/dashboard_component/Dashboard_SpaceCard.qml
+Dashboard_SpaceCardCustomize 1.0 existingusers/dashboard_component/Dashboard_SpaceCardCustomize.qml
+Dashboard_Transactions 1.0  existingusers/dashboard_component/Dashboard_Transactions.qml
+
+SendUI_AssetAmount 1.0 existingusers/dashboard_component/SendUI_AssetAmount.qml
+SendUI_FinalReview 1.0 existingusers/dashboard_component/SendUI_FinalReview.qml
+SendUI_ToWhome 1.0 existingusers/dashboard_component/SendUI_ToWhome.qml
+SendUI_TransactionOutcome 1.0 existingusers/dashboard_component/SendUI_TransactionOutcome.qml

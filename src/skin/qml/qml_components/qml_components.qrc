@@ -1,0 +1,13 @@
+<RCC>
+    <!-- Root Shared Components -->
+    <qresource prefix="qml_components/">
+        <file>QML_Debugger.qml</file>
+        <file>UIUX_UserCache.qml</file>
+        <file>FontIconButton.qml</file>
+        <file>NewWindow.qml</file>
+        <file>OutlineSimple.qml</file>
+
+        <!-- Register QML -->
+        <file>qmldir</file>
+    </qresource>
+</RCC>

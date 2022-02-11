@@ -201,11 +201,14 @@ auto Api::enabledCurrencyCount() -> int
     return static_cast<int>(imp_.enabled_chains_.count());
 }
 
-auto Api::getQRcodeBase64(const QString input_string) -> QString
+auto Api::getQRcodeBase64(const QString input_string, const bool raw_utf8 = false) -> QString
 {
     qr::QrCode qr0 = qr::QrCode::encodeText(
         input_string.toStdString().c_str(), qr::QrCode::Ecc::MEDIUM);
     QString xml_svg = QString::fromStdString(qr0.toSvgString(4));
+    if (raw_utf8) {
+        return xml_svg.toUtf8();
+    }
     return xml_svg.toUtf8().toBase64();
 }
 

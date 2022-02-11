@@ -1,0 +1,3 @@
+# qmldir
+
+singleton OTidentity 1.0 OTidentity.qml

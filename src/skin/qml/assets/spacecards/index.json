@@ -1,0 +1,45 @@
+{
+  "version": 1.1,
+  "designs": [
+    {
+      "title": "OG Black",
+      "textColor": "#e9eaf3",
+      "file": "og-black"
+    },
+    {
+      "title": "OG White",
+      "textColor": "#111",
+      "file": "og-white"
+    },
+    {
+      "title": "Push",
+      "textColor": "#251a57",
+      "file": "push"
+    },
+    {
+      "title": "Pull",
+      "textColor": "#e9eaf3",
+      "file": "pull"
+    },
+    {
+      "title": "Shift",
+      "textColor": "#e9eaf3",
+      "file": "shift"
+    },
+    {
+      "title": "Launch",
+      "textColor": "#e9eaf3",
+      "file": "launch"
+    },
+    {
+      "title": "Flight",
+      "textColor": "#e9eaf3",
+      "file": "flight"
+    },
+    {
+      "title": "Orbit",
+      "textColor": "#e9eaf3",
+      "file": "orbit"
+    }
+  ]
+}
