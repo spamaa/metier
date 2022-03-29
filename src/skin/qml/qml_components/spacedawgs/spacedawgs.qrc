@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="spacedawgs/">
+        <!-- Shared Styled App Components -->
+        <file>Dawgs_AccentTitle.qml</file>
+        <file>Dawgs_ActionFooter.qml</file>
+        <file>Dawgs_Alert.qml</file>
+        <file>Dawgs_AssetSelection.qml</file>
+        <file>Dawgs_Avatar.qml</file>
+        <file>Dawgs_Button.qml</file>
+        <file>Dawgs_CenteredTitle.qml</file>
+        <file>Dawgs_ContextualHelp.qml</file>
+        <file>Dawgs_PinLenSwitch.qml</file>
+        <file>Dawgs_PinNumBox.qml</file>
+        <file>Dawgs_RadioButton.qml</file>
+        <file>Dawgs_SendAmount.qml</file>
+        <file>Dawgs_SendButton.qml</file>
+        <file>Dawgs_TabGroupButton.qml</file>
+        <file>Dawgs_TextButton.qml</file>
+        <file>Dawgs_TextField.qml</file>
+        <file>Dawgs_TranslucentButton.qml</file>
+        <file>Dawgs_YesNoToggle.qml</file>
+
+        <!-- Register QML -->
+        <file>qmldir</file>
+    </qresource>
+
+</RCC>

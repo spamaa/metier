@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="styling/">
+    <file>Fonts.qml</file>
+    <file>DawgsStyle.qml</file>
+    <file>IconIndex.qml</file>
+
+    <!-- Register QML Compnents -->
+    <file>qmldir</file>
+  </qresource>
+</RCC>
